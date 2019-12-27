@@ -17,7 +17,7 @@ body {
   justify-content: space-evenly;
 }
 #center {
-  margin: 1%  30%;
+  margin: 1% auto;
   font-family: tahoma;
   }
  .stopwatch {
@@ -26,7 +26,7 @@ body {
       background-color: #eee;
       text-align: center;
       /* width:656px; */
-      /* height: 230px; */
+      height: 230px;
       overflow: hidden;
   }
   .stopwatch span{
